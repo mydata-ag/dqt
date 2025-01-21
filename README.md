@@ -7,6 +7,6 @@ A tool to monitor and test your data.
     pip install dqt
 
 
-# Usage
+# Publishing
 
-TBD
+https://www.digitalocean.com/community/tutorials/how-to-publish-python-packages-to-pypi-using-poetry-on-ubuntu-22-04
