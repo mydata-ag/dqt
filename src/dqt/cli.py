@@ -3,8 +3,8 @@ from loguru import logger
 
 
 @click.command()
-def main():
-    logger.info("Hello, dqt!")
+def run():
+    logger.info("Checking data quality...")
 
 
 if __name__ == "__main__":
